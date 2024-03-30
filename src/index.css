@@ -1,0 +1,9 @@
+/* In your App.css */
+.selected-line {
+  background-color: #f0f0f0; /* Light grey background */
+}
+
+/* index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
